@@ -98,15 +98,15 @@ Here are the custom styles possibilities, using JSX.
 
 **Default Style**
 
-![](https://github.com/wolfthread/images-for-react-components-showcase/blob/main/rotating-cube/defaultStyles.gif)
+![](https://github.com/syldess/images-for-react-components-showcase/blob/main/rotating-cube/defaultStyles.gif)
 
 **Custom Style**
 
-![](https://github.com/wolfthread/images-for-react-components-showcase/blob/main/rotating-cube/customStyles.gif)
+![](https://github.com/syldess/images-for-react-components-showcase/blob/main/rotating-cube/customStyles.gif)
 
 ## Demo
 
-Try it on [CodePen](https://codepen.io/wolfthread/full/RwGxWGR)
+Try it on [CodePen](https://codepen.io/syldess/full/RwGxWGR)
 
 ## License
 
